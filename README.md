@@ -2,8 +2,10 @@
 
 This is a set of python script to analyse climate datafiles.
 
-TO instal;
+TO instal
+
 please go to step 1
+
 '''
 git clone 
 '''
